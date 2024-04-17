@@ -51,7 +51,7 @@ importers:
         specifier: ^3.0.3
         version: 3.2.5
       rollup:
-        specifier: ^3.29.2
+        specifier: ^3.29.4
         version: 3.29.4
       tslib:
         specifier: ^2.6.2
